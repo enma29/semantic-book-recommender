@@ -16,3 +16,9 @@ permiten a los usuarios interactuar con tus modelos de manera sencilla y visual.
 # pip install ipywidgets permite crear widgets interactivos en Jupyter Notebooks y JupyterLab. 
 # Estos widgets pueden ser utilizados para controlar y visualizar datos de manera interactiva, 
 # lo que facilita la exploración y el análisis de datos.
+
+# Para crear el entorno virtual usa el comando: 
+# python -m venv env
+# Activar el entorno virtual env\Scripts\activate
+# Y para instalar las dependencias que estan en el archivo requirements.txt usa el comando: 
+# pip install -r requirements.txt
